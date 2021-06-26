@@ -50665,6 +50665,23 @@
           48.53479452317522
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "",
+        "url": "https://www.cultura.com/les-magasins/cultura-saint-quentin-fayet.html",
+        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT",
+        "code": 47,
+        "nom": "Troyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0594482421875,
+          48.39273786659243
+        ]
+      }
     }
   ]
 }
