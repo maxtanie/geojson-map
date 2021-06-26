@@ -50649,6 +50649,22 @@
           48.95626998163366
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "code": 45,
+        "nom": "Melun",
+        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN",
+        "url": "https://www.cultura.com/les-magasins.html/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5048828125,
+          48.53479452317522
+        ]
+      }
     }
   ]
 }
