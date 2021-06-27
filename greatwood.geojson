@@ -50674,6 +50674,25 @@
           48.94849177508471
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
     }
   ]
 }
