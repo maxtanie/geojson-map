@@ -50640,7 +50640,9 @@
         "fill": "#ff6b6b",
         "stroke": "#ffffff",
         "fill-opacity": 0.8,
-        "stroke-opacity": ""
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html"
       },
       "geometry": {
         "type": "Point",
@@ -50661,7 +50663,9 @@
         "fill": "#ff6b6b",
         "stroke": "#ffffff",
         "fill-opacity": 0.8,
-        "stroke-opacity": ""
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html"
       },
       "geometry": {
         "type": "Point",
