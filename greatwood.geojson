@@ -1875,12 +1875,12 @@
         ]
       },
       "properties": {
-        "code": "11",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Île-de-France",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -5277,12 +5277,12 @@
         ]
       },
       "properties": {
-        "code": "24",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Centre-Val de Loire",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT",
-        "url": "https://www.cultura.com/les-magasins.html/"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -9255,12 +9255,12 @@
         ]
       },
       "properties": {
-        "code": "27",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Bourgogne-Franche-Comté",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -12317,12 +12317,12 @@
         ]
       },
       "properties": {
-        "code": "28",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Normandie",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -15235,12 +15235,12 @@
         ]
       },
       "properties": {
-        "code": "32",
-        "nom": "Hauts-de-France",
-        "fill": "blue",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff6b6b",
+        "fill-opacity": 0.8,
+        "nom": "Hauts-de-France"
       }
     },
     {
@@ -19569,12 +19569,12 @@
         ]
       },
       "properties": {
-        "code": "44",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Grand Est",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -23025,12 +23025,12 @@
         ]
       },
       "properties": {
-        "code": "52",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Pays de la Loire",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -28041,12 +28041,12 @@
         ]
       },
       "properties": {
-        "code": "53",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Bretagne",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -33917,12 +33917,12 @@
         ]
       },
       "properties": {
-        "code": "75",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Nouvelle-Aquitaine",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -38879,12 +38879,12 @@
         ]
       },
       "properties": {
-        "code": "76",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Occitanie",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -44595,12 +44595,12 @@
         ]
       },
       "properties": {
-        "code": "84",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Auvergne-Rhône-Alpes",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -48669,12 +48669,12 @@
         ]
       },
       "properties": {
-        "code": "93",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Provence-Alpes-Côte d'Azur",
-        "fill": "blue",
+        "fill": "#ff6b6b",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -50621,12 +50621,12 @@
         ]
       },
       "properties": {
-        "code": "94",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
         "nom": "Corse",
-        "fill": "blue",
+        "fill": "#c02626",
         "stroke": "#ffffff",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN"
+        "fill-opacity": 0.8
       }
     },
     {
@@ -50634,52 +50634,40 @@
       "properties": {
         "marker-color": "#ffffff",
         "marker-size": "medium",
-        "marker-symbol": "circle",
-        "code": 93,
-        "nom": "Stains",
-        "fill": "",
-        "stroke": "",
-        "url": "https://www.cultura.com/les-magasins.html/",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT"
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shop-code": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.383089065551758,
-          48.95626998163366
+          2.5400733947753906,
+          48.615931113993646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "code": 45,
-        "nom": "Melun",
-        "adress": "Rue du Général de Gaulle Centre commercial Bay 2 77090 COLLEGIEN",
-        "url": "https://www.cultura.com/les-magasins.html/"
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shop-code": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5048828125,
-          48.53479452317522
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "",
-        "url": "https://www.cultura.com/les-magasins/cultura-saint-quentin-fayet.html",
-        "adress": "ZAC du carré Allée du trait d'Union 77127 LIEUSAINT",
-        "code": 47,
-        "nom": "Troyes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.0594482421875,
-          48.39273786659243
+          2.375514507293701,
+          48.94849177508471
         ]
       }
     }
