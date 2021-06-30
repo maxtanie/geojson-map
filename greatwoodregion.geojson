@@ -4480,22 +4480,6 @@
           48.615931113993646
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffffff",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "fill": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8899192810058594,
-          48.60624132572704
-        ]
-      }
     }
   ]
 }
