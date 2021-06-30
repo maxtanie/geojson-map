@@ -4423,7 +4423,8 @@
         "shopCode": 75,
         "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
         "adress": "23 rue de Lourd PONTOISE",
-        "region": "Île-de-France"
+        "region": "Île-de-France",
+        "nom": ""
       },
       "geometry": {
         "type": "Point",
@@ -4447,7 +4448,8 @@
         "stroke-opacity": "",
         "adress": "15 rue Jean Ferrat 93240 STAINS",
         "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
-        "region": "Île-de-France"
+        "region": "Île-de-France",
+        "nom": ""
       },
       "geometry": {
         "type": "Point",
@@ -4471,7 +4473,8 @@
         "stroke-opacity": "",
         "adress": "12 rue Carré Senart 77200 CARRE SENART",
         "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
-        "region": "Île-de-France"
+        "region": "Île-de-France",
+        "nom": ""
       },
       "geometry": {
         "type": "Point",
@@ -5648,7 +5651,11 @@
       },
       "properties": {
         "code": "14",
-        "nom": "Calvados"
+        "nom": "Calvados",
+        "region": "Normandie",
+        "marker-color": "#ffffff",
+        "fill": "#e66565",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -7142,7 +7149,11 @@
       },
       "properties": {
         "code": "61",
-        "nom": "Orne"
+        "nom": "Orne",
+        "region": "Normandie",
+        "marker-color": "#ffffff",
+        "fill": "#e66565",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -8188,7 +8199,11 @@
       },
       "properties": {
         "code": "76",
-        "nom": "Seine-Maritime"
+        "nom": "Seine-Maritime",
+        "region": "Normandie",
+        "marker-color": "#ffffff",
+        "fill": "#e66565",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -9518,7 +9533,11 @@
       },
       "properties": {
         "code": "27",
-        "nom": "Eure"
+        "nom": "Eure",
+        "region": "Normandie",
+        "marker-color": "#ffffff",
+        "fill": "#e66565",
+        "stroke": "#ffffff"
       }
     },
     {
@@ -11008,7 +11027,11 @@
       },
       "properties": {
         "code": "50",
-        "nom": "Manche"
+        "nom": "Manche",
+        "region": "Normandie",
+        "marker-color": "#ffffff",
+        "fill": "#e66565",
+        "stroke": "#ffffff"
       }
     }
   ]
