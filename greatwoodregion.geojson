@@ -12672,7 +12672,7 @@
       "properties": {
         "code": "02",
         "nom": "Aisne",
-        "region": "Picardie",
+        "region": "Hauts-pas-de-France",
         "marker-color": "#ffffff",
         "fill": "#e66565",
         "stroke": "#ffffff",
@@ -14273,7 +14273,7 @@
       "properties": {
         "code": "62",
         "nom": "Pas-de-Calais",
-        "region": "Nord-Pas-de-Calais",
+        "region": "Hauts-pas-de-France",
         "marker-color": "#ffffff",
         "fill": "#e66565",
         "stroke": "#ffffff"
@@ -15870,7 +15870,7 @@
         "code": "60",
         "nom": "Oise",
         "marker-color": "#ffffff",
-        "region": "Picardie",
+        "region": "Hauts-pas-de-France",
         "fill": "#e66565",
         "stroke": "#ffffff"
       }
@@ -17785,7 +17785,7 @@
       "properties": {
         "code": "59",
         "nom": "Nord",
-        "region": "Nord-Pas-de-Calais",
+        "region": "Hauts-pas-de-France",
         "marker-color": "#ffffff",
         "fill": "#e66565",
         "stroke": "#ffffff"
@@ -19299,7 +19299,7 @@
       "properties": {
         "code": "80",
         "nom": "Somme",
-        "region": "Picardie",
+        "region": "Hauts-pas-de-France",
         "marker-color": "#ffffff",
         "fill": "#e66565",
         "stroke": "#ffffff"
